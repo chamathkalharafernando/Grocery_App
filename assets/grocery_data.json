@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Bread",
+        "price": 150.0,
+        "image": "assets/images/bread.png"
+    },
+    {
+        "id": 2,
+        "name": "Milk",
+        "price": 200.0,
+        "image": "assets/images/milk.png"
+    },
+    {
+        "id": 3,
+        "name": "Rice",
+        "price": 220.0,
+        "image": "assets/images/rice.png"
+    },
+    {
+        "id": 4,
+        "name": "Eggs",
+        "price": 30.0,
+        "image": "assets/images/eggs.png"
+    }
+]
